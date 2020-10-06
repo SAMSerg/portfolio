@@ -1,4 +1,27 @@
 article{
   width:70%;
-  color:red;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav{
+  text-align: left;
+}
+h1{
+  font-size: 32px;
+}
+
+h1, h2, h3 {
+  font-family: sans-serif;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+table {
+border-collapse: collapse; /*убираем пустые промежутки между ячейками*/
+border: 1px solid black; /*устанавливаем для таблицы внешнюю границу толщиной 1px*/
+}
+figure{
+  float: right;
+}
+figcaption{
+  font-style: italic;
 }
