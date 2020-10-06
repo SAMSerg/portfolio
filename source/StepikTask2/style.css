@@ -10,14 +10,16 @@ background: #007765;
 .logo{
 width: 184px;
 height: 45px;
-display: inline;
-margin-left: 50px;
-vertical-align: middle;
+float: left;
+margin-left: 200px;
+margin-top: 20px;
 }
 header p {
   display: inline;
-  text-align: right;
+  float: right;
   margin-right: 50px;
+  color: #FFFFFF;
+  font-family: Roboto, serif;
 }
 header a {
 color: #FFFFFF;
