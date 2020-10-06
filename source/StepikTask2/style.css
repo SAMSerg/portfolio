@@ -1,0 +1,25 @@
+/* Header */
+header{
+width: 1219px;
+height: 84px;
+padding-left: 55px;
+padding-right: 55px;
+background: #007765;
+}
+/* logo */
+.logo{
+width: 184px;
+height: 45px;
+display: inline;
+margin-left: 50px;
+vertical-align: middle;
+}
+header p {
+  display: inline;
+  text-align: right;
+  margin-right: 50px;
+}
+header a {
+color: #FFFFFF;
+font-family: Roboto, serif;
+}

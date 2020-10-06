@@ -1,0 +1,136 @@
+/* Header */
+header{
+width: 1219px;
+height: 84px;
+padding-left: 55px;
+padding-right: 55px;
+background: #007765;
+}
+/* logo */
+logo{
+width: 184px;
+height: 45px;
+margin-left: 501px;
+margin-top: 20px;
+}
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 75.55%;
+top: 0%;
+bottom: 0.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.02%;
+right: 0%;
+top: 0%;
+bottom: -0.09%;
+
+background: #FFFFFF;
+
+
+/* the problem */
+
+position: absolute;
+width: 129px;
+height: 29px;
+left: 1187px;
+top: 28px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* the team */
+
+position: absolute;
+width: 95px;
+height: 29px;
+left: 1516px;
+top: 29px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* PiedPiperCoin */
+
+position: absolute;
+width: 154px;
+height: 29px;
+left: 1339px;
+top: 29px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* | */
+
+position: absolute;
+width: 7px;
+height: 29px;
+left: 1501px;
+top: 29px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* | */
+
+position: absolute;
+width: 7px;
+height: 29px;
+left: 1324px;
+top: 28px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
