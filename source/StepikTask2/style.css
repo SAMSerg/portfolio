@@ -1,5 +1,6 @@
 /* Header */
 header{
+display:block;
 width: 1219px;
 height: 84px;
 padding-left: 55px;
@@ -24,4 +25,32 @@ header p {
 header a {
 color: #FFFFFF;
 font-family: Roboto, serif;
+}
+.before {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+.Jambotron{
+  width: 1219px;
+  height: 403px;
+  padding-left: 55px;
+  padding-right: 55px;
+  background: url(files/Jambotron.svg);
+  background-position: top;
+  background-size: contain;
+  text-align: center;
+}
+.Jambotron p{
+  display: inline-block;
+  vertical-align: middle;
+  color: #FFFFFF;
+  font-size: 72px;
+}
+.The_problem{
+  width: 1219px;
+  height: 719px;
+  padding-left: 55px;
+  padding-right: 55px;
+  text-align: center;
 }
