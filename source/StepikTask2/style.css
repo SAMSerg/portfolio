@@ -5,6 +5,7 @@ width: 1219px;
 height: 84px;
 padding-left: 55px;
 padding-right: 55px;
+margin: auto;
 background: #007765;
 }
 /* logo */
@@ -36,10 +37,15 @@ font-family: Roboto, serif;
   height: 403px;
   padding-left: 55px;
   padding-right: 55px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
   background: url(files/Jambotron.svg);
   background-position: top;
   background-size: contain;
   text-align: center;
+
 }
 .Jambotron p{
   display: inline-block;
@@ -52,5 +58,9 @@ font-family: Roboto, serif;
   height: 719px;
   padding-left: 55px;
   padding-right: 55px;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  padding-top: 0px;
+  background: #EEEEEE;
 }
