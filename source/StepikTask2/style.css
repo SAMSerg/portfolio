@@ -1,11 +1,10 @@
 /* Header */
 header{
-display:block;
 width: 1219px;
 height: 84px;
 padding-left: 55px;
 padding-right: 55px;
-margin: auto;
+margin: -8px auto 0px auto;
 background: #007765;
 }
 /* logo */
@@ -25,7 +24,7 @@ header p {
 }
 header a {
 color: #FFFFFF;
-font-family: Roboto, serif;
+font-family: Roboto, sans-serif;
 }
 .before {
   display: inline-block;
@@ -37,15 +36,12 @@ font-family: Roboto, serif;
   height: 403px;
   padding-left: 55px;
   padding-right: 55px;
-  padding-bottom: 0px;
-  margin-bottom: 0px;
-  margin-left: auto;
-  margin-right: auto;
-  background: url(files/Jambotron.svg);
+  margin: 0px auto 0px auto;
+  background: url(files/Jambo.svg);
   background-position: top;
   background-size: contain;
+  font-family: Roboto, sans-serif;
   text-align: center;
-
 }
 .Jambotron p{
   display: inline-block;
@@ -58,9 +54,35 @@ font-family: Roboto, serif;
   height: 719px;
   padding-left: 55px;
   padding-right: 55px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0px;
-  padding-top: 0px;
+  margin: -50px auto 0px auto;
   background: #EEEEEE;
+}
+.The_problem h1{
+text-align: center;
+font-family: Roboto, sans-serif;
+font-size: 64px;
+color: #007765;
+padding-top: 47px;
+}
+.The_problem p{
+font-family: Roboto, sans-serif;
+font-size: 32px;
+}
+.Hero{
+  width: 1219px;
+  height: 483px;
+  padding-left: 55px;
+  padding-right: 55px;
+  margin: 0px auto 0px auto;
+  background: url(files/hero.svg);
+  background-position: top;
+  background-size: contain;
+  font-family: Roboto, sans-serif;
+  text-align: center;
+}
+.Hero p{
+  display: inline-block;
+  vertical-align: middle;
+  color: #FFFFFF;
+  font-size: 46px;
 }
