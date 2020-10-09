@@ -57,7 +57,7 @@ font-family: Roboto, sans-serif;
   margin: -50px auto 0px auto;
   background: #EEEEEE;
 }
-.The_problem h1{
+h1{
 text-align: center;
 font-family: Roboto, sans-serif;
 font-size: 64px;
@@ -87,4 +87,36 @@ font-size: 32px;
   font-size: 48px;
   font-family: Roboto, sans-serif;
   font-style: italic;
+}
+.PPC{
+  width: 1219px;
+  height: 604px;
+  padding-left: 55px;
+  padding-right: 55px;
+  margin: -53px auto 0px auto;
+  background: #FFFFFF;
+}
+.PPClogo{
+float: left;
+width: 115px;
+height: 115px;
+}
+.PPCtext{
+font-family: Roboto, sans-serif;
+font-size: 32px;
+padding-left: 190px;
+padding-right: 71px;
+}
+.PPC p{
+font-family: Roboto, sans-serif;
+font-size: 32px;
+padding-right: 71px;
+}
+.Team{
+  width: 1219px;
+  height: 845px;
+  padding-left: 55px;
+  padding-right: 55px;
+  margin: -53px auto 0px auto;
+  background: #EEEEEE;
 }
