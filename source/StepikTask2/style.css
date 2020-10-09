@@ -81,8 +81,10 @@ font-size: 32px;
   text-align: center;
 }
 .Hero p{
-  display: inline-block;
-  vertical-align: middle;
+  margin: 0px 163px auto 163px;
+  padding-top: 128px;
   color: #FFFFFF;
-  font-size: 46px;
+  font-size: 48px;
+  font-family: Roboto, sans-serif;
+  font-style: italic;
 }
