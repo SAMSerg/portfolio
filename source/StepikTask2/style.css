@@ -1,10 +1,14 @@
 /* Header */
 header{
+position: fixed;
+top: 0px;
+left: 0px;
+right: 0px;
+margin: auto;
 width: 1219px;
 height: 84px;
 padding-left: 55px;
 padding-right: 55px;
-margin: -8px auto 0px auto;
 background: #007765;
 }
 /* logo */
@@ -12,12 +16,13 @@ background: #007765;
 width: 184px;
 height: 45px;
 float: left;
-margin-left: 200px;
+margin-left: 50px;
 margin-top: 20px;
 }
 header p {
   display: inline;
   float: right;
+  margin-top: 30px;
   margin-right: 50px;
   color: #FFFFFF;
   font-family: Roboto, serif;
@@ -36,7 +41,7 @@ font-family: Roboto, sans-serif;
   height: 403px;
   padding-left: 55px;
   padding-right: 55px;
-  margin: 0px auto 0px auto;
+  margin: 84px auto 0px auto;
   background: url(files/Jambo.svg);
   background-position: top;
   background-size: contain;
