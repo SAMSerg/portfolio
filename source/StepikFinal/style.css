@@ -1,0 +1,30 @@
+header{
+position: fixed;
+top: 0px;
+left: 0px;
+right: 0px;
+margin: auto;
+box-sizing: border-box;
+max-width: 1124px;
+height: 72px;
+background: #FFFFFF;
+display: flex;
+}
+/* logo */
+.logo{
+width: 119.23px;
+height: 12.31px;
+margin: auto;
+float: left;
+vertical-align: middle;
+}
+/*Button*/
+.ButInp{
+margin: auto;
+float: right;
+vertical-align: middle;
+text-decoration: none;
+border-radius: 4px;
+background-color: #712073;
+color: #ffffff;
+}
