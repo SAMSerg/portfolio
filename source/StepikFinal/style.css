@@ -7,7 +7,7 @@ margin: auto;
 box-sizing: border-box;
 max-width: 1124px;
 height: 72px;
-background: #FFFFFF;
+background: #E0E0E0 /*#FFFFFF*/;
 display: flex;
 }
 /* logo */
@@ -23,8 +23,22 @@ vertical-align: middle;
 margin: auto;
 float: right;
 vertical-align: middle;
+font-family: arial,sans-serif;
+font-size: 13px;
+font-weight: bold;
+color: #1D1D1D;
 text-decoration: none;
-border-radius: 4px;
-background-color: #712073;
-color: #ffffff;
+user-select: none;
+padding: 14px 20px;
+outline: none;
+border: 1px solid #E0E0E0;
+border-radius: 2px; l
+}
+/* basket */
+.basket{
+width: 40px;
+height: 72px;
+margin: auto;
+float: right;
+vertical-align: middle;
 }
