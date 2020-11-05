@@ -52,3 +52,14 @@ margin: 72px auto 0px auto;
 box-sizing: border-box;
 max-width: 1124px;
 }
+.SearchRest{
+width: 100%;
+margin-top: 32px;
+font-size: 16px;
+color: #626262;
+border-style: none none solid none;
+}
+h1{
+font: 22px sans-serif;
+margin-top: 56px;
+}
