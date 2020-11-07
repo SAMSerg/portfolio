@@ -11,7 +11,7 @@ box-shadow: 0px 0px 10px 5px #E0E0E0;
 }
 .HeaderLine{
 box-sizing: border-box;
-max-width: 1124px;
+max-width: 1184px;
 height: 72px;
 margin: auto;
 display: flex;
@@ -22,8 +22,10 @@ align-items: center;
 .logo{
 width: 119.23px;
 height: 12.31px;
+margin-left: 9px;
 }
 .ButBusk{
+margin-right: 8px;
 display: flex;
 justify-content: flex-end;
 align-items: center;
@@ -50,16 +52,40 @@ height: 72px;
 main{
 margin: 72px auto 0px auto;
 box-sizing: border-box;
-max-width: 1124px;
+max-width: 1184px;
+}
+.SearchCont{
+max-width: 1184px;
+padding-left: 8px;
+padding-right: 8px;
 }
 .SearchRest{
 width: 100%;
-margin-top: 32px;
+margin: 32px auto 0 auto;
 font-size: 16px;
 color: #626262;
 border-style: none none solid none;
 }
 h1{
 font: 22px sans-serif;
-margin-top: 56px;
+margin: 56px auto 0 auto;
+padding-left: 8px;
+}
+.RestList{
+width: 100%;
+margin: 16px auto 0 auto;
+}
+.RestCard img{
+width: 100%;
+height: auto;
+}
+h2{
+font: 16px sans-serif;
+}
+.Price{
+font: 14px sans-serif;
+color: #626262;
+}
+.Time{
+font: 13px sans-serif;
 }
