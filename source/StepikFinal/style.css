@@ -88,4 +88,26 @@ color: #626262;
 }
 .Time{
 font: 13px sans-serif;
+margin-bottom: 36px;
+}
+footer{
+width: auto;
+margin: auto;
+background: #262626;
+}
+.FootConteiner{
+margin: 72px auto 0px auto;
+box-sizing: border-box;
+max-width: 1184px;
+}
+.FootLogo{
+width: 192px;
+height: 20px;
+padding-top: 56px;
+margin-left: 9px;
+padding-bottom: 40px;
+}
+.FootContent{
+width: 100%;
+margin: 32px auto 0 auto;
 }
