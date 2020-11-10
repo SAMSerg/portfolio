@@ -111,3 +111,19 @@ padding-bottom: 40px;
 width: 100%;
 margin: 32px auto 0 auto;
 }
+.LangSlct{
+-webkit-appearance: none;
+-moz-appearance: none;
+-o-appearance: none;
+appearance: none;
+width: 100%;
+height: 40px;
+font: 13px sans-serif;
+padding-left: 48px;
+color: #FFFFFF;
+background: #3B3B3B;
+background-image: url("Img/world.svg"),url("Img/arrow.svg");
+background-repeat: no-repeat,no-repeat;
+background-position: 20px center, 95% center;
+border-style: none;
+}
