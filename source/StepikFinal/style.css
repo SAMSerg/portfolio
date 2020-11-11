@@ -127,3 +127,32 @@ background-repeat: no-repeat,no-repeat;
 background-position: 20px center, 95% center;
 border-style: none;
 }
+.UberLogo{
+padding: 33px 0 0 0;
+}
+.UberLogo a{
+font: 16px sans-serif;
+text-decoration: none;
+}
+.social{
+padding: 16px 0 0 0;
+display: inline-block;
+}
+.FootRow2 a{
+font: 13px sans-serif;
+color: #FFFFFF;
+text-decoration: none;
+padding: 23px 0 0 0;
+}
+.GooglApp{
+display: flex;
+justify-content: center;
+}
+.GooglApp div{
+padding: 40px 20px 40px 20px;
+}
+.LowLine a{
+font: 11px sans-serif;
+color: #FFFFFF;
+text-decoration: none;
+}
