@@ -166,3 +166,34 @@ font: 11px sans-serif;
 color: #FFFFFF;
 text-decoration: none;
 }
+
+/*Pushkin rest styles*/
+.Jambotron{
+margin: 72px auto 0px auto;
+width: auto;
+height: 364px;
+background-image: url("Img/Pushkin.svg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+.RestNameBox{
+max-width: 1184px;
+margin: auto;
+}
+.RestName{
+width: 100%;
+margin-top: 80px;
+background: #FFFFFF;
+
+display: flex;
+justify-content: center;
+}
+.RestName h1{
+font: 36px sans-serif;
+color: #1D1D1D;
+margin: 38px auto 0 auto;
+width: 100%;
+}
+.RestComment{
+
+}
