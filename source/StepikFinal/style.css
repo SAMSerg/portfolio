@@ -168,16 +168,17 @@ text-decoration: none;
 }
 
 /*Pushkin rest styles*/
-.Jambotron{
+.JamboContein{
 margin: 72px auto 0px auto;
+}
+.Jambotron{
 width: 100%;
 height: 364px;
 background-image: url("Img/Pushkin.svg");
 background-size: cover;
 background-repeat: no-repeat;
 }
-.JambotronNS{
-margin: 72px auto 0px auto;
+.JambotronXS{
 width: 100%;
 height: 255px;
 background-image: url("Img/Pushkin.svg");
@@ -195,19 +196,26 @@ margin-top: 80px;
 background: #FFFFFF;
 text-align: center;
 }
-.RestNameSM{
-max-width: 308px;
+.RestNameXS{
+width: 100%;
 height: 180px;
 margin: 131px 8px 0px 8px;
 padding-left: 8px;
 padding-right: 8px;
 background: #FFFFFF;
+box-shadow: 0px 0px 10px 5px #E0E0E0;
 text-align: center;
 }
 .RestName h1{
 font: 36px sans-serif;
 color: #1D1D1D;
 margin: 38px auto 0 auto;
+}
+.RestNameXS h1{
+font: 24px sans-serif;
+color: #1D1D1D;
+padding-top: 24px;
+margin: 0 auto 0 auto;
 }
 .RestComment{
 margin-top: 62px;
@@ -216,11 +224,31 @@ display: flex;
 justify-content: space-around;
 align-items: center;
 }
+.RestCommentXS{
+display: flex;
+flex-direction: column;
+}
 .TimePush{
-max-width: 100px;
-padding: 8px 16px 8px 16px;
 font: 13px sans-serif;
+padding: 8px 16px 8px 16px;
 color: #FFFFFF;
 background-color: #262626;
 border-radius: 16px;
+}
+.TimeConteiner{
+width: 98px;
+margin: auto;
+}
+.MenuContein{
+max-width: 1184px;
+margin: auto;
+}
+.Menu ul li{
+display: inline-block;
+font: 16px sans-serif;
+padding-right: 40px;
+color: #626262;
+}
+.Menu a{
+text-decoration: none;
 }
