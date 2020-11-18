@@ -49,7 +49,7 @@ margin: 16px;
 width: 40px;
 height: 72px;
 }
-body{
+.MainBody{
 position: relative;
 }
 .ButUp{
@@ -59,7 +59,7 @@ right: 20px;
 width: 80px;
 height: 80px;
 }
-main{
+.MainPage{
 margin: 72px auto 0px auto;
 box-sizing: border-box;
 max-width: 1184px;
@@ -303,24 +303,50 @@ color: #1D1D1D;
 padding-top: 56px;
 }
 .PushkinDishes{
-margin: 0px auto 0px auto;
 max-width: 1184px;
+margin: 0px auto 0px auto;
 }
-.Snaks h1{
+.DishesCont{
+width: 100%;
+margin: 0 auto 0 auto;
+}
+.PushkinDishes h1{
 font: 22px sans-serif;
 color: #1D1D1D;
 margin: 0px;
 padding: 56px 0 0 0;
 }
-.Snak{
+.SnakList{
 width: 100%;
+margin: 16px auto 0 auto;
+}
+.Snak{
+margin-top: 32px;
 height: 160px;
-padding: 0px;
+padding: 0px 0px 0px 16px;
 display: flex;
 justify-content: space-between;
 border-style: solid;
 border-color: #D8D8D8;
 border-width: 1px;
+border-radius: 2px;
+}
+.SnakText{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.Snak h2{
+font: 16px sans-serif;
+color: #1D1D1D;
+}
+.Snak p{
+font: 13px sans-serif;
+color: #626262;
+}
+.Snak h3{
+font: bold 15px sans-serif;
+color: #1D1D1D;
 }
 .SnakImg{
 width: auto;
