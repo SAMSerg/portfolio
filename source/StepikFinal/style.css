@@ -331,20 +331,43 @@ border-color: #D8D8D8;
 border-width: 1px;
 border-radius: 2px;
 }
+.SnakXS{
+margin-top: 43px;
+height: 102px;
+padding: 0px 0px 0px 16px;
+display: flex;
+justify-content: space-between;
+border-style: none none solid none;
+border-color: #D8D8D8;
+border-width: 1px;
+}
 .SnakText{
 display: flex;
 flex-direction: column;
 justify-content: space-between;
 }
-.Snak h2{
+.SnakText h2{
 font: 16px sans-serif;
 color: #1D1D1D;
 }
-.Snak p{
+.SnakXS h2{
+margin: 0;
+font: 14px sans-serif;
+color: #1D1D1D;
+}
+.SnakText p{
 font: 13px sans-serif;
 color: #626262;
 }
-.Snak h3{
+.SnakXS p{
+font: 13px sans-serif;
+color: #626262;
+}
+.SnakText h3{
+font: bold 15px sans-serif;
+color: #1D1D1D;
+}
+.SnakXS h3{
 font: bold 15px sans-serif;
 color: #1D1D1D;
 }
