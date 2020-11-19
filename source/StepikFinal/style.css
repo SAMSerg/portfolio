@@ -59,6 +59,13 @@ right: 20px;
 width: 80px;
 height: 80px;
 }
+.ButUpXS{
+position: fixed;
+bottom: 24px;
+right: 24px;
+width: 64px;
+height: 64px;
+}
 .MainPage{
 margin: 72px auto 0px auto;
 box-sizing: border-box;
@@ -360,6 +367,7 @@ font: 13px sans-serif;
 color: #626262;
 }
 .SnakXS p{
+margin-top: 4px;
 font: 13px sans-serif;
 color: #626262;
 }
